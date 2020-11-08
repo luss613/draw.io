@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2020-11-08T11:11:18.560Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" version="13.8.0" etag="kFjrJmdluJV3t63W8Wfd" type="github"><diagram id="sWXnz30XNRdV2VJLcHcR">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-08T11:14:50.870Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="7lqchbM7hJsoDkBYk5lg" version="13.8.0" type="github">
+  <diagram id="sWXnz30XNRdV2VJLcHcR" name="第 1 页">
+    <mxGraphModel dx="989" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TWRN7iPOXEYogoIKZ3C1-1" value="安全认证" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="80" y="90" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TWRN7iPOXEYogoIKZ3C1-2" value="账号管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="180" y="90" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TWRN7iPOXEYogoIKZ3C1-3" value="权限管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="280" y="90" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TWRN7iPOXEYogoIKZ3C1-4" value="流程引擎" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="380" y="90" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TWRN7iPOXEYogoIKZ3C1-5" value="日志管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="480" y="90" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TWRN7iPOXEYogoIKZ3C1-6" value="门户集成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="80" y="140" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TWRN7iPOXEYogoIKZ3C1-7" value="通知服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="180" y="140" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TWRN7iPOXEYogoIKZ3C1-8" value="任务服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="280" y="140" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TWRN7iPOXEYogoIKZ3C1-9" value="规则处理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="380" y="140" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TWRN7iPOXEYogoIKZ3C1-10" value="消息队列" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="480" y="140" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
