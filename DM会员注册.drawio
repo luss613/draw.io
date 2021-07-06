@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-06T08:43:01.588Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="YT8l6X-yf4NwPiLKk4NY" version="14.7.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-07-06T09:58:36.104Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="BpZbdSrtFWapkkaCSVOG" version="14.7.3" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="会员注册(DM发起)">
-    <mxGraphModel dx="1277" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1277" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -64,7 +64,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="esstyL84_JRWl88-nX4D" name="会员注册(CRM发起)">
-    <mxGraphModel dx="894" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="894" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="O8hbfqUTixh86_Mw3hFV-0" />
         <mxCell id="O8hbfqUTixh86_Mw3hFV-1" parent="O8hbfqUTixh86_Mw3hFV-0" />
@@ -74,17 +74,41 @@
         <mxCell id="6XnaxZQT6nteYDDQ_c1x-0" value="CRM输入会员资料" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="O8hbfqUTixh86_Mw3hFV-1">
           <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="BY9hfEudO3gbS5lkCiNH-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="O8hbfqUTixh86_Mw3hFV-1" source="6XnaxZQT6nteYDDQ_c1x-1" target="BY9hfEudO3gbS5lkCiNH-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6XnaxZQT6nteYDDQ_c1x-1" value="CRM建立会员卡" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="O8hbfqUTixh86_Mw3hFV-1">
           <mxGeometry x="160" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="X2kyM-lxJk_voCdTr7nd-0" value="CRM建立会员卡" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="O8hbfqUTixh86_Mw3hFV-1">
-          <mxGeometry x="160" y="240" width="120" height="40" as="geometry" />
+        <mxCell id="BY9hfEudO3gbS5lkCiNH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="O8hbfqUTixh86_Mw3hFV-1" source="BY9hfEudO3gbS5lkCiNH-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="280" />
+              <mxPoint x="300" y="220" />
+              <mxPoint x="220" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BY9hfEudO3gbS5lkCiNH-4" value="同步失败" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BY9hfEudO3gbS5lkCiNH-3">
+          <mxGeometry x="-0.4526" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BY9hfEudO3gbS5lkCiNH-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="O8hbfqUTixh86_Mw3hFV-1" source="BY9hfEudO3gbS5lkCiNH-0" target="BY9hfEudO3gbS5lkCiNH-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BY9hfEudO3gbS5lkCiNH-0" value="CRM: DM05&lt;br&gt;同步会员信息" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="O8hbfqUTixh86_Mw3hFV-1">
+          <mxGeometry x="160" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BY9hfEudO3gbS5lkCiNH-5" value="CRM接收会员信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="O8hbfqUTixh86_Mw3hFV-1">
+          <mxGeometry x="160" y="360" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="EnVb0DNDEYP5Q-1s3YA-" name="Base">
-    <mxGraphModel dx="894" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="894" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="i-jM-E5A0spqX-HpuWp2-0" />
         <mxCell id="i-jM-E5A0spqX-HpuWp2-1" parent="i-jM-E5A0spqX-HpuWp2-0" />
@@ -107,7 +131,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="自动续费" id="-JAiaKp-i0e2nvh_o6sE">
-    <mxGraphModel dx="745" dy="443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="745" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="P7IPok-87TdZ8yPXT8U8-0" />
         <mxCell id="P7IPok-87TdZ8yPXT8U8-1" parent="P7IPok-87TdZ8yPXT8U8-0" />
@@ -166,6 +190,34 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="495" y="336" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="uesFtHk8uDKDLbBsMEn0" name="DataFlow">
+    <mxGraphModel dx="894" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="FQoiNpiLooqf6MdgqyrV-0" />
+        <mxCell id="FQoiNpiLooqf6MdgqyrV-1" parent="FQoiNpiLooqf6MdgqyrV-0" />
+        <mxCell id="FQoiNpiLooqf6MdgqyrV-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FQoiNpiLooqf6MdgqyrV-1" source="FQoiNpiLooqf6MdgqyrV-2" target="FQoiNpiLooqf6MdgqyrV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FQoiNpiLooqf6MdgqyrV-5" value="Profile" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FQoiNpiLooqf6MdgqyrV-4">
+          <mxGeometry x="-0.2667" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FQoiNpiLooqf6MdgqyrV-2" value="User" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="FQoiNpiLooqf6MdgqyrV-1">
+          <mxGeometry x="90" y="80" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FQoiNpiLooqf6MdgqyrV-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FQoiNpiLooqf6MdgqyrV-1" source="FQoiNpiLooqf6MdgqyrV-3" target="FQoiNpiLooqf6MdgqyrV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FQoiNpiLooqf6MdgqyrV-3" value="Register" style="html=1;dashed=0;whitespace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="FQoiNpiLooqf6MdgqyrV-1">
+          <mxGeometry x="80" y="200" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FQoiNpiLooqf6MdgqyrV-6" value="&amp;nbsp;1&amp;nbsp; &amp;nbsp; &amp;nbsp; DM Member" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="FQoiNpiLooqf6MdgqyrV-1">
+          <mxGeometry x="80" y="340" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
