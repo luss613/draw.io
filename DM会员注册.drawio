@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-06T10:46:50.321Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="doAXIJ4whmgD6DHrWBsq" version="14.7.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-07-06T10:47:16.203Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="ciXadPkbjAnVKQ5gKFvQ" version="14.7.3" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="会员注册(DM发起)">
     <mxGraphModel dx="1277" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -109,7 +109,7 @@
         <mxCell id="BY9hfEudO3gbS5lkCiNH-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="O8hbfqUTixh86_Mw3hFV-1" source="BY9hfEudO3gbS5lkCiNH-0" target="BY9hfEudO3gbS5lkCiNH-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BY9hfEudO3gbS5lkCiNH-0" value="CRM: DM05&lt;br&gt;同步会员信息" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="O8hbfqUTixh86_Mw3hFV-1">
+        <mxCell id="BY9hfEudO3gbS5lkCiNH-0" value="接口: DM05&lt;br&gt;同步会员信息" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="O8hbfqUTixh86_Mw3hFV-1">
           <mxGeometry x="150" y="310" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BY9hfEudO3gbS5lkCiNH-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="O8hbfqUTixh86_Mw3hFV-1" source="BY9hfEudO3gbS5lkCiNH-5" target="BY9hfEudO3gbS5lkCiNH-21">
