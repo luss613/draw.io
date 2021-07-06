@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-06T10:10:59.904Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Bqrbl8N93vezWWP-IJBn" version="14.7.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-07-06T10:11:34.903Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="U2ODrgNVqj8mXnTMOHoX" version="14.7.3" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="会员注册(DM发起)">
     <mxGraphModel dx="1277" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,7 +57,7 @@
         <mxCell id="hvAQ4ffvafs_0G6m9jGT-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="b6sV0XmubJNv4stDMWGY-15" target="hvAQ4ffvafs_0G6m9jGT-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b6sV0XmubJNv4stDMWGY-15" value="APP, WEB呈现结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="b6sV0XmubJNv4stDMWGY-15" value="APP, WEB呈现" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="880" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hvAQ4ffvafs_0G6m9jGT-0" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
