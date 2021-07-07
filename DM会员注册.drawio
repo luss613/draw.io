@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-07T01:16:23.754Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="kCZgIjjXarFy3-Xj_Ja3" version="14.7.3" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-07-07T02:43:04.955Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="fjHVFxO13TaDGmA2Y-Id" version="14.7.3" type="github" pages="11">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="会员注册(DM发起)">
     <mxGraphModel dx="894" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -962,6 +962,43 @@
         </mxCell>
         <mxCell id="i1QtCa6BsegbAPy3NRDm-19" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;align=left;verticalAlign=bottom;" vertex="1" parent="i1QtCa6BsegbAPy3NRDm-1">
           <mxGeometry x="140" y="530" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="通知修改照片" id="1Fm38dLWCm5mg1-4ziaG">
+    <mxGraphModel dx="894" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="3npK8lfXcIs6onxFd5wa-0" />
+        <mxCell id="3npK8lfXcIs6onxFd5wa-1" parent="3npK8lfXcIs6onxFd5wa-0" />
+        <mxCell id="3npK8lfXcIs6onxFd5wa-2" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;align=center;verticalAlign=bottom;" vertex="1" parent="3npK8lfXcIs6onxFd5wa-1">
+          <mxGeometry x="140" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3npK8lfXcIs6onxFd5wa-3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" parent="3npK8lfXcIs6onxFd5wa-1" source="3npK8lfXcIs6onxFd5wa-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="155" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3npK8lfXcIs6onxFd5wa-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3npK8lfXcIs6onxFd5wa-1" source="3npK8lfXcIs6onxFd5wa-5" target="3npK8lfXcIs6onxFd5wa-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3npK8lfXcIs6onxFd5wa-5" value="CRM允许修改照片" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="3npK8lfXcIs6onxFd5wa-1">
+          <mxGeometry x="95" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3npK8lfXcIs6onxFd5wa-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3npK8lfXcIs6onxFd5wa-1" source="3npK8lfXcIs6onxFd5wa-7" target="3npK8lfXcIs6onxFd5wa-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3npK8lfXcIs6onxFd5wa-7" value="接口: DM07&lt;br&gt;DM允许修改照片Flag" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="3npK8lfXcIs6onxFd5wa-1">
+          <mxGeometry x="95" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3npK8lfXcIs6onxFd5wa-8" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;align=center;verticalAlign=bottom;" vertex="1" parent="3npK8lfXcIs6onxFd5wa-1">
+          <mxGeometry x="140" y="290" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3npK8lfXcIs6onxFd5wa-9" value="跨系统接口使用" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;verticalAlign=bottom;" vertex="1" parent="3npK8lfXcIs6onxFd5wa-1">
+          <mxGeometry x="500" y="100" width="300" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="3npK8lfXcIs6onxFd5wa-10" value="01. G07 (CRM -&gt; DM) DM允许修改照片" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3npK8lfXcIs6onxFd5wa-9">
+          <mxGeometry y="26" width="300" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
