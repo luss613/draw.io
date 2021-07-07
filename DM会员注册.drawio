@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-07T00:40:45.197Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="HQNnZJCvdUgA4E3g2IJF" version="14.7.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-07-07T01:16:23.754Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="kCZgIjjXarFy3-Xj_Ja3" version="14.7.3" type="github" pages="10">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="会员注册(DM发起)">
     <mxGraphModel dx="894" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -896,6 +896,72 @@
             <mxPoint x="390" y="270" as="sourcePoint" />
             <mxPoint x="440" y="220" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="平安退卡申请" id="Yu4G7xELGNew88NwdBwU">
+    <mxGraphModel dx="894" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="i1QtCa6BsegbAPy3NRDm-0" />
+        <mxCell id="i1QtCa6BsegbAPy3NRDm-1" parent="i1QtCa6BsegbAPy3NRDm-0" />
+        <mxCell id="i1QtCa6BsegbAPy3NRDm-2" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;align=center;verticalAlign=bottom;" vertex="1" parent="i1QtCa6BsegbAPy3NRDm-1">
+          <mxGeometry x="140" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i1QtCa6BsegbAPy3NRDm-3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" parent="i1QtCa6BsegbAPy3NRDm-1" source="i1QtCa6BsegbAPy3NRDm-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="155" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i1QtCa6BsegbAPy3NRDm-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="i1QtCa6BsegbAPy3NRDm-1" source="i1QtCa6BsegbAPy3NRDm-5" target="i1QtCa6BsegbAPy3NRDm-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i1QtCa6BsegbAPy3NRDm-5" value="银行发送联名卡退卡清单" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="i1QtCa6BsegbAPy3NRDm-1">
+          <mxGeometry x="95" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i1QtCa6BsegbAPy3NRDm-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="i1QtCa6BsegbAPy3NRDm-1" source="i1QtCa6BsegbAPy3NRDm-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="155" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i1QtCa6BsegbAPy3NRDm-7" value="接口: G09-1&lt;br&gt;CRM接收退卡清单" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="i1QtCa6BsegbAPy3NRDm-1">
+          <mxGeometry x="95" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i1QtCa6BsegbAPy3NRDm-9" value="跨系统接口使用" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;verticalAlign=bottom;" vertex="1" parent="i1QtCa6BsegbAPy3NRDm-1">
+          <mxGeometry x="500" y="100" width="300" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="i1QtCa6BsegbAPy3NRDm-10" value="01. G09-1 (PA -&gt; DM) CRM接收退卡清单" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="i1QtCa6BsegbAPy3NRDm-9">
+          <mxGeometry y="26" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="i1QtCa6BsegbAPy3NRDm-11" value="02. G09-1 (DM -&gt; CRM) CRM接收退卡清单" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="i1QtCa6BsegbAPy3NRDm-9">
+          <mxGeometry y="52" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="i1QtCa6BsegbAPy3NRDm-21" value="03. G09-2 (CRM -&gt; DM) CRM返回可退卡清单" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="i1QtCa6BsegbAPy3NRDm-9">
+          <mxGeometry y="78" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="i1QtCa6BsegbAPy3NRDm-22" value="04. G09-2 (DM -&gt; PA) CRM返回可退卡清单" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="i1QtCa6BsegbAPy3NRDm-9">
+          <mxGeometry y="104" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="i1QtCa6BsegbAPy3NRDm-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="i1QtCa6BsegbAPy3NRDm-1" source="i1QtCa6BsegbAPy3NRDm-14" target="i1QtCa6BsegbAPy3NRDm-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i1QtCa6BsegbAPy3NRDm-14" value="ZCSR_NNC_MEMREF客服下载并确认清单" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="i1QtCa6BsegbAPy3NRDm-1">
+          <mxGeometry x="95" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i1QtCa6BsegbAPy3NRDm-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="i1QtCa6BsegbAPy3NRDm-1" source="i1QtCa6BsegbAPy3NRDm-15" target="i1QtCa6BsegbAPy3NRDm-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i1QtCa6BsegbAPy3NRDm-15" value="ZCSR_NNC_MEMREF确认可退卡会员清单" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="i1QtCa6BsegbAPy3NRDm-1">
+          <mxGeometry x="95" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i1QtCa6BsegbAPy3NRDm-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="i1QtCa6BsegbAPy3NRDm-1" source="i1QtCa6BsegbAPy3NRDm-17" target="i1QtCa6BsegbAPy3NRDm-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i1QtCa6BsegbAPy3NRDm-17" value="接口: G09-2&lt;br&gt;返回可退卡清单" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="i1QtCa6BsegbAPy3NRDm-1">
+          <mxGeometry x="95" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i1QtCa6BsegbAPy3NRDm-19" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;align=left;verticalAlign=bottom;" vertex="1" parent="i1QtCa6BsegbAPy3NRDm-1">
+          <mxGeometry x="140" y="530" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
