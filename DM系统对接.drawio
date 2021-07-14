@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-14T13:58:04.380Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="G_8x9g8AGG8YKXWgPZJk" version="14.8.4" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2021-07-14T14:07:34.388Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="_OlYpDDeAIOaqVDkilEA" version="14.8.4" type="github" pages="11">
   <diagram id="VHPPdgc4-16UZA6mTWxn" name="会员注册(DM发起)2">
     <mxGraphModel dx="894" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -114,6 +114,18 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="205" y="510" as="targetPoint" />
             <mxPoint x="315" y="510" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lmhJ2NgrsQHHXOYV2zfA-0" value="CAR" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="88XZNEZWtt2lWktWLU08-1">
+          <mxGeometry x="510" y="40" width="100" height="840" as="geometry" />
+        </mxCell>
+        <mxCell id="lmhJ2NgrsQHHXOYV2zfA-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="lmhJ2NgrsQHHXOYV2zfA-0">
+          <mxGeometry x="45" y="475" width="10" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="lmhJ2NgrsQHHXOYV2zfA-3" value="经PI传送POSLog给CAR" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="88XZNEZWtt2lWktWLU08-1" source="6dlbx7ZrzS7woMeq0L2G-3" target="lmhJ2NgrsQHHXOYV2zfA-2">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="460" y="520" as="sourcePoint" />
+            <mxPoint x="540" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
