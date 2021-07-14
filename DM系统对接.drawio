@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-14T14:26:49.605Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Ws8Faip9OLuZabqr1Mm5" version="14.8.4" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2021-07-14T14:27:00.250Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="q2QMqIqnIZrYeMLUCosQ" version="14.8.4" type="github" pages="11">
   <diagram id="VHPPdgc4-16UZA6mTWxn" name="会员注册(DM发起)2">
     <mxGraphModel dx="894" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -995,7 +995,7 @@
           <mxGeometry x="45" y="800" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bmhjTMR5AEFeokZEZ-2A-0" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="GM4Zm39kg-4K6sfPo1Ng-0">
-          <mxGeometry x="-460" y="750" width="620" height="8" as="geometry" />
+          <mxGeometry x="-440" y="750" width="620" height="8" as="geometry" />
         </mxCell>
         <mxCell id="GM4Zm39kg-4K6sfPo1Ng-1" value="顾客" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Gh3h2avUs1ygY4sN7TR_-1" vertex="1">
           <mxGeometry x="80" y="50" width="40" height="20" as="geometry" />
