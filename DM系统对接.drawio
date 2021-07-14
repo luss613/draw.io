@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-14T13:51:45.344Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="LNwuStExQduduNC73tqO" version="14.8.4" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2021-07-14T13:52:14.966Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="ABiUuXZ1m6eVvLKF-4S8" version="14.8.4" type="github" pages="11">
   <diagram id="VHPPdgc4-16UZA6mTWxn" name="会员注册(DM发起)2">
     <mxGraphModel dx="894" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -177,7 +177,7 @@
             <mxPoint x="314.9999999999999" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tJsX9TQUfVt9Q6ZRwZ_d-1" value="CRM: DM05&lt;br&gt;同步会员信息" style="html=1;verticalAlign=bottom;endArrow=block;" parent="cUZ6Qp9wX0EvgezbNpTD-1" edge="1">
+        <mxCell id="tJsX9TQUfVt9Q6ZRwZ_d-1" value="接口: DM05&lt;br&gt;同步会员信息" style="html=1;verticalAlign=bottom;endArrow=block;" parent="cUZ6Qp9wX0EvgezbNpTD-1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="325" y="333" as="sourcePoint" />
             <mxPoint x="435" y="333" as="targetPoint" />
