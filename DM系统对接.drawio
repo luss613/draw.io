@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-14T13:47:02.770Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="vnV1ZpSE5lVBvdZlF7cg" version="14.8.4" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2021-07-14T13:47:30.691Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="HShPOzlf1swBluB_R6fc" version="14.8.4" type="github" pages="11">
   <diagram id="VHPPdgc4-16UZA6mTWxn" name="会员注册(DM发起)2">
     <mxGraphModel dx="894" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -376,7 +376,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2C9Mvo-lgxceP9TZ1TbE-2" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;CRM: DM02&lt;/span&gt;&lt;br style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;更新CRM会员有效期&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" parent="Ao9rk0yAfm8ubfZNRpbA-1" source="K4V1isKuODvl0PDMbXBL-0" target="2C9Mvo-lgxceP9TZ1TbE-1" edge="1">
+        <mxCell id="2C9Mvo-lgxceP9TZ1TbE-2" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;接口: DM02&lt;/span&gt;&lt;br style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;更新CRM会员有效期&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" parent="Ao9rk0yAfm8ubfZNRpbA-1" source="K4V1isKuODvl0PDMbXBL-0" target="2C9Mvo-lgxceP9TZ1TbE-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="244" y="810" as="sourcePoint" />
           </mxGeometry>
@@ -395,7 +395,7 @@
             <mxPoint x="79.32352941176464" y="612.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1QcDY7CvAc7TjlhlhQm-4" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;DM: DM04&lt;/span&gt;&lt;br style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;更新DM会员有消息&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=1;entryY=0;" parent="Ao9rk0yAfm8ubfZNRpbA-1" source="vf9C1t_zfh5h8wng9S0w-0" target="a1QcDY7CvAc7TjlhlhQm-3" edge="1">
+        <mxCell id="a1QcDY7CvAc7TjlhlhQm-4" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;接口: DM04&lt;/span&gt;&lt;br style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;更新DM会员有消息&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=1;entryY=0;" parent="Ao9rk0yAfm8ubfZNRpbA-1" source="vf9C1t_zfh5h8wng9S0w-0" target="a1QcDY7CvAc7TjlhlhQm-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="255" y="930" as="sourcePoint" />
           </mxGeometry>
