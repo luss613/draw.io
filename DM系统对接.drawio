@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2021-07-14T14:27:00.250Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="q2QMqIqnIZrYeMLUCosQ" version="14.8.4" type="github" pages="11">
-  <diagram id="VHPPdgc4-16UZA6mTWxn" name="会员注册(DM发起)2">
+<mxfile host="app.diagrams.net" modified="2021-07-14T14:28:41.436Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="-KY4PrqG4inu2AXkInmO" version="14.8.4" type="github" pages="11">
+  <diagram id="VHPPdgc4-16UZA6mTWxn" name="会员注册(DM发起)">
     <mxGraphModel dx="894" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="88XZNEZWtt2lWktWLU08-0" />
@@ -131,7 +131,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="VOd-FD-y5WFQacDSM3Cr" name="会员注册(CRM发起)2">
+  <diagram id="VOd-FD-y5WFQacDSM3Cr" name="会员注册(CRM发起)">
     <mxGraphModel dx="894" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="cUZ6Qp9wX0EvgezbNpTD-0" />
@@ -252,7 +252,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="J57Exyx2eoiaGOxvI6-a" name="手动续费2">
+  <diagram id="J57Exyx2eoiaGOxvI6-a" name="手动续费">
     <mxGraphModel dx="894" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Ao9rk0yAfm8ubfZNRpbA-0" />
@@ -485,7 +485,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="NGB5SIMKvDp1b-D89RHw" name="POS手动续费2">
+  <diagram id="NGB5SIMKvDp1b-D89RHw" name="POS手动续费">
     <mxGraphModel dx="894" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="n6tLapuM_3ZPw_-gYyUw-0" />
@@ -612,7 +612,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="3oMmFucAUlTQmIUPTa1Z" name="自动续费2">
+  <diagram id="3oMmFucAUlTQmIUPTa1Z" name="自动续费(平安)">
     <mxGraphModel dx="894" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="-Ac3oBNJ-LA_nVe5egqt-0" />
@@ -788,7 +788,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="8Nsnq0uy8IP01lm9P1z8" name="联名卡开卡2">
+  <diagram id="8Nsnq0uy8IP01lm9P1z8" name="联名卡开卡">
     <mxGraphModel dx="894" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="el2CFdWhmMDe_KNF9ApO-0" />
@@ -898,7 +898,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="990GqQk_iG9SF93n-QKZ" name="联名卡激活2">
+  <diagram id="990GqQk_iG9SF93n-QKZ" name="联名卡激活">
     <mxGraphModel dx="894" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Gh3h2avUs1ygY4sN7TR_-0" />
@@ -1091,7 +1091,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="t7egaIKLRWtc3j1rE6Jr" name="取消联名卡2">
+  <diagram id="t7egaIKLRWtc3j1rE6Jr" name="取消联名卡">
     <mxGraphModel dx="894" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="kCMjMjsYMPMiO9kLtC04-0" />
@@ -1162,7 +1162,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="银行卡丢失2" id="bjJYiWYieBUUDO18le58">
+  <diagram name="银行卡丢失" id="bjJYiWYieBUUDO18le58">
     <mxGraphModel dx="894" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="tPnTf32zbMUxSOdJqr0y-0" />
@@ -1233,7 +1233,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="平安退卡申请2" id="DLzYTxK2FS8fs_G9P6qz">
+  <diagram name="平安退卡申请" id="DLzYTxK2FS8fs_G9P6qz">
     <mxGraphModel dx="894" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="aw2NmYBKo35kT2Glp4x--0" />
@@ -1356,7 +1356,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="T9dk4XeJI4kjxjfqKilU" name="通知修改照片2">
+  <diagram id="T9dk4XeJI4kjxjfqKilU" name="通知修改照片">
     <mxGraphModel dx="894" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="qHNBpKxKBksmFrl0UUJv-0" />
