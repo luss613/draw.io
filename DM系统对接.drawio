@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-14T04:59:53.952Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="5TMQyqyUdfuwSIlmUX6i" version="14.8.4" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-07-14T05:16:13.531Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="tjz7nHV3ck02lhKt_bnm" version="14.8.4" type="github" pages="13">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="会员注册(DM发起)">
     <mxGraphModel dx="894" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -205,7 +205,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="esstyL84_JRWl88-nX4D" name="会员注册(CRM发起)">
-    <mxGraphModel dx="894" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="894" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="O8hbfqUTixh86_Mw3hFV-0" />
         <mxCell id="O8hbfqUTixh86_Mw3hFV-1" parent="O8hbfqUTixh86_Mw3hFV-0" />
@@ -269,6 +269,82 @@
         </mxCell>
         <mxCell id="4IqEXgjdJgoVQHTIYaYC-1" value="01. DM05 (CRM -&gt; DM) 同步会员到DM" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="4IqEXgjdJgoVQHTIYaYC-0" vertex="1">
           <mxGeometry y="26" width="270" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="VOd-FD-y5WFQacDSM3Cr" name="会员注册(CRM发起)2">
+    <mxGraphModel dx="1052" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="cUZ6Qp9wX0EvgezbNpTD-0" />
+        <mxCell id="cUZ6Qp9wX0EvgezbNpTD-1" parent="cUZ6Qp9wX0EvgezbNpTD-0" />
+        <mxCell id="lJDFH0WNFgA2ycEipfec-0" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="cUZ6Qp9wX0EvgezbNpTD-1">
+          <mxGeometry x="70" y="40" width="20" height="920" as="geometry" />
+        </mxCell>
+        <mxCell id="lJDFH0WNFgA2ycEipfec-1" value="CRM" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="cUZ6Qp9wX0EvgezbNpTD-1">
+          <mxGeometry x="270" y="40" width="100" height="920" as="geometry" />
+        </mxCell>
+        <mxCell id="hLccDIiwwsBGdBuaab5C-0" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="lJDFH0WNFgA2ycEipfec-1">
+          <mxGeometry x="45" y="130" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lJDFH0WNFgA2ycEipfec-2" value="DM" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="cUZ6Qp9wX0EvgezbNpTD-1">
+          <mxGeometry x="390" y="40" width="100" height="920" as="geometry" />
+        </mxCell>
+        <mxCell id="tJsX9TQUfVt9Q6ZRwZ_d-0" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="lJDFH0WNFgA2ycEipfec-2">
+          <mxGeometry x="45" y="290" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hLccDIiwwsBGdBuaab5C-1" value="提交纸本申请表" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;entryX=-0.234;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" target="RxRQtBfLXyJac9oHddqT-1" parent="cUZ6Qp9wX0EvgezbNpTD-1" source="lJDFH0WNFgA2ycEipfec-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135" y="110" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="140" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RxRQtBfLXyJac9oHddqT-0" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="cUZ6Qp9wX0EvgezbNpTD-1">
+          <mxGeometry x="190" y="40" width="20" height="920" as="geometry" />
+        </mxCell>
+        <mxCell id="RxRQtBfLXyJac9oHddqT-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="RxRQtBfLXyJac9oHddqT-0">
+          <mxGeometry x="5" y="80" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CrI5xb129g7vKHO1dXlD-0" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="RxRQtBfLXyJac9oHddqT-0">
+          <mxGeometry x="5" y="220" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vqDt_bwjdfZPBx-MGaly-0" value="客服" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cUZ6Qp9wX0EvgezbNpTD-1">
+          <mxGeometry x="200" y="50" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vqDt_bwjdfZPBx-MGaly-1" value="顾客" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cUZ6Qp9wX0EvgezbNpTD-1">
+          <mxGeometry x="80" y="50" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CrI5xb129g7vKHO1dXlD-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="cUZ6Qp9wX0EvgezbNpTD-1">
+          <mxGeometry x="315" y="290" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CrI5xb129g7vKHO1dXlD-8" value="输入会员资料" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="cUZ6Qp9wX0EvgezbNpTD-1" source="RxRQtBfLXyJac9oHddqT-1" target="hLccDIiwwsBGdBuaab5C-0">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="210" y="170" as="sourcePoint" />
+            <mxPoint x="290" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CrI5xb129g7vKHO1dXlD-9" value="建立会员卡" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="cUZ6Qp9wX0EvgezbNpTD-1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="204.9999999999999" y="290" as="sourcePoint" />
+            <mxPoint x="314.9999999999999" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tJsX9TQUfVt9Q6ZRwZ_d-1" value="CRM: DM05&lt;br&gt;同步会员信息" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="cUZ6Qp9wX0EvgezbNpTD-1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="325" y="333" as="sourcePoint" />
+            <mxPoint x="435" y="333" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wwNJJi-OsSOgzQn4EK-t-0" value="APP展示会员资料" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="cUZ6Qp9wX0EvgezbNpTD-1" source="tJsX9TQUfVt9Q6ZRwZ_d-0" target="lJDFH0WNFgA2ycEipfec-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="400" as="sourcePoint" />
+            <mxPoint x="360" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="390" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
