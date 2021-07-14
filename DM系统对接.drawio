@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-14T14:28:41.436Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="-KY4PrqG4inu2AXkInmO" version="14.8.4" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2021-07-14T14:32:07.542Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="3gN8JDJ-i_qNSHoj_M-V" version="14.8.4" type="github" pages="11">
   <diagram id="VHPPdgc4-16UZA6mTWxn" name="会员注册(DM发起)">
     <mxGraphModel dx="894" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -630,7 +630,7 @@
           <mxGeometry x="45" y="310" width="10" height="70" as="geometry" />
         </mxCell>
         <mxCell id="z5NJKsSCLzLW9d_MItRW-0" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="ZLDJhj_m0haPOAwk9w0q-1" vertex="1">
-          <mxGeometry x="45" y="480" width="10" height="140" as="geometry" />
+          <mxGeometry x="45" y="440" width="10" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-j9MY5o0SctSf5EGb0FY-9" value="&lt;span style=&quot;text-align: left&quot;&gt;续费成功&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;更新会员有效期&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="ZLDJhj_m0haPOAwk9w0q-1" source="h3GHng53Za5wVixoDHvL-0" target="z5NJKsSCLzLW9d_MItRW-0">
           <mxGeometry x="0.1333" y="30" width="80" relative="1" as="geometry">
@@ -638,7 +638,7 @@
             <mxPoint x="150" y="390" as="targetPoint" />
             <Array as="points">
               <mxPoint x="80" y="380" />
-              <mxPoint x="80" y="480" />
+              <mxPoint x="80" y="440" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -650,20 +650,20 @@
           <mxGeometry x="45" y="130" width="10" height="70" as="geometry" />
         </mxCell>
         <mxCell id="m16QFb9xPtxm1ksuk3-o-0" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="ZLDJhj_m0haPOAwk9w0q-2" vertex="1">
-          <mxGeometry x="45" y="560" width="10" height="50" as="geometry" />
+          <mxGeometry x="45" y="500" width="10" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-j9MY5o0SctSf5EGb0FY-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ZLDJhj_m0haPOAwk9w0q-2">
           <mxGeometry x="45" y="290" width="10" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-j9MY5o0SctSf5EGb0FY-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ZLDJhj_m0haPOAwk9w0q-2">
-          <mxGeometry x="45" y="450" width="10" height="40" as="geometry" />
+          <mxGeometry x="45" y="590" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-j9MY5o0SctSf5EGb0FY-8" value="续费成功&lt;br&gt;产生POSLog" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="-j9MY5o0SctSf5EGb0FY-7" parent="ZLDJhj_m0haPOAwk9w0q-2" source="-j9MY5o0SctSf5EGb0FY-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="45" y="430" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="75" y="380" />
-              <mxPoint x="75" y="450" />
+              <mxPoint x="75" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -690,7 +690,10 @@
           <mxGeometry x="510" y="40" width="100" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="NHx_dyuHRaJ2orf0F94--0" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="WHye1OGtmvQAK53g7oEA-1" vertex="1">
-          <mxGeometry x="45" y="480" width="10" height="40" as="geometry" />
+          <mxGeometry x="45" y="620" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vgbry_UpgvA4osxb5ox_-0" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="WHye1OGtmvQAK53g7oEA-1">
+          <mxGeometry x="-440" y="570" width="620" height="8" as="geometry" />
         </mxCell>
         <mxCell id="WHye1OGtmvQAK53g7oEA-2" value="Scheduler" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="-Ac3oBNJ-LA_nVe5egqt-1" vertex="1">
           <mxGeometry x="90" y="50" width="40" height="20" as="geometry" />
@@ -745,16 +748,16 @@
         </mxCell>
         <mxCell id="m16QFb9xPtxm1ksuk3-o-1" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;接口: DM04&lt;/span&gt;&lt;br style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;更新DM会员资料&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" parent="-Ac3oBNJ-LA_nVe5egqt-1" source="z5NJKsSCLzLW9d_MItRW-0" target="m16QFb9xPtxm1ksuk3-o-0" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="230" y="600" as="sourcePoint" />
-            <mxPoint x="310" y="600" as="targetPoint" />
+            <mxPoint x="230" y="540" as="sourcePoint" />
+            <mxPoint x="310" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vS6yuPm8z3EwV12zo4Bo-0" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="-Ac3oBNJ-LA_nVe5egqt-1" source="m16QFb9xPtxm1ksuk3-o-0" target="z5NJKsSCLzLW9d_MItRW-0" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="650" as="sourcePoint" />
-            <mxPoint x="230" y="650" as="targetPoint" />
+            <mxPoint x="310" y="590" as="sourcePoint" />
+            <mxPoint x="230" y="590" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="270" y="650" />
+              <mxPoint x="270" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -784,6 +787,12 @@
               <mxPoint x="415" y="410" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="p4D8IOso3y8OL0tVqQfw-0" value="Realtime" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-Ac3oBNJ-LA_nVe5egqt-1">
+          <mxGeometry x="610" y="560" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p4D8IOso3y8OL0tVqQfw-1" value="隔天AM 4:00" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-Ac3oBNJ-LA_nVe5egqt-1">
+          <mxGeometry x="600" y="650" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -989,7 +998,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GM4Zm39kg-4K6sfPo1Ng-0" value="CAR" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="Gh3h2avUs1ygY4sN7TR_-1" vertex="1">
-          <mxGeometry x="510" y="40" width="160" height="1000" as="geometry" />
+          <mxGeometry x="510" y="40" width="100" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="cTfs6MLZYt46WER0tqDt-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="GM4Zm39kg-4K6sfPo1Ng-0" vertex="1">
           <mxGeometry x="45" y="800" width="10" height="30" as="geometry" />
