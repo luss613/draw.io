@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-14T14:32:07.542Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="3gN8JDJ-i_qNSHoj_M-V" version="14.8.4" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2021-07-14T14:34:15.372Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="ufGTqnrk3JgxJKfUsch-" version="14.8.4" type="github" pages="11">
   <diagram id="VHPPdgc4-16UZA6mTWxn" name="会员注册(DM发起)">
     <mxGraphModel dx="894" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,7 +122,7 @@
         <mxCell id="lmhJ2NgrsQHHXOYV2zfA-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="lmhJ2NgrsQHHXOYV2zfA-0">
           <mxGeometry x="45" y="475" width="10" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="lmhJ2NgrsQHHXOYV2zfA-3" value="经PI传送POSLog给CAR" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="88XZNEZWtt2lWktWLU08-1" source="6dlbx7ZrzS7woMeq0L2G-3" target="lmhJ2NgrsQHHXOYV2zfA-2">
+        <mxCell id="lmhJ2NgrsQHHXOYV2zfA-3" value="传送POSLog" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="88XZNEZWtt2lWktWLU08-1" source="6dlbx7ZrzS7woMeq0L2G-3" target="lmhJ2NgrsQHHXOYV2zfA-2">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="460" y="520" as="sourcePoint" />
             <mxPoint x="540" y="520" as="targetPoint" />
@@ -419,7 +419,7 @@
             <mxPoint x="230" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AOhasTDxqI7eX5ZEbz2o-0" value="经PI传送POSLog给CAR" style="html=1;verticalAlign=bottom;endArrow=block;" parent="Ao9rk0yAfm8ubfZNRpbA-1" source="K4V1isKuODvl0PDMbXBL-0" target="AOhasTDxqI7eX5ZEbz2o-1" edge="1">
+        <mxCell id="AOhasTDxqI7eX5ZEbz2o-0" value="传送POSLog" style="html=1;verticalAlign=bottom;endArrow=block;" parent="Ao9rk0yAfm8ubfZNRpbA-1" source="K4V1isKuODvl0PDMbXBL-0" target="AOhasTDxqI7eX5ZEbz2o-1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="220" y="760" as="sourcePoint" />
             <mxPoint x="300" y="760" as="targetPoint" />
@@ -575,7 +575,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="M45j_tWEoSacv415N8Lg-1" value="经PI传送POSLog给CAR" style="html=1;verticalAlign=bottom;endArrow=block;" parent="n6tLapuM_3ZPw_-gYyUw-1" source="FU2L_l0HPKarW_EDEhEE-0" target="M45j_tWEoSacv415N8Lg-0" edge="1">
+        <mxCell id="M45j_tWEoSacv415N8Lg-1" value="传送POSLog" style="html=1;verticalAlign=bottom;endArrow=block;" parent="n6tLapuM_3ZPw_-gYyUw-1" source="FU2L_l0HPKarW_EDEhEE-0" target="M45j_tWEoSacv415N8Lg-0" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="340" y="400" as="sourcePoint" />
             <mxPoint x="420" y="400" as="targetPoint" />
@@ -739,7 +739,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NHx_dyuHRaJ2orf0F94--1" value="经PI传送POSLog给CAR" style="html=1;verticalAlign=bottom;endArrow=block;" parent="-Ac3oBNJ-LA_nVe5egqt-1" source="-j9MY5o0SctSf5EGb0FY-7" target="NHx_dyuHRaJ2orf0F94--0" edge="1">
+        <mxCell id="NHx_dyuHRaJ2orf0F94--1" value="传送POSLog" style="html=1;verticalAlign=bottom;endArrow=block;" parent="-Ac3oBNJ-LA_nVe5egqt-1" source="-j9MY5o0SctSf5EGb0FY-7" target="NHx_dyuHRaJ2orf0F94--0" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="460" y="550" as="sourcePoint" />
             <mxPoint x="540" y="550" as="targetPoint" />
