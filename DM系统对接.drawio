@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-23T01:46:50.680Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="0AbDm_Gg0C6U8FVZrNcS" version="16.6.1" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-03-23T01:48:33.474Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="YbD5LuWt_N46S6LdhjYB" version="16.6.1" type="github" pages="14">
   <diagram id="VHPPdgc4-16UZA6mTWxn" name="会员注册(DM发起)">
     <mxGraphModel dx="1378" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1679,13 +1679,13 @@
         <mxCell id="vDU1avr8M_OjxgSZHGRm-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="vDU1avr8M_OjxgSZHGRm-0">
           <mxGeometry x="45" y="500" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vDU1avr8M_OjxgSZHGRm-4" value="传送POSLog" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="vDU1avr8M_OjxgSZHGRm-0" source="vDU1avr8M_OjxgSZHGRm-3">
+        <mxCell id="vDU1avr8M_OjxgSZHGRm-4" value="传送退卡POSLog" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="vDU1avr8M_OjxgSZHGRm-0" source="vDU1avr8M_OjxgSZHGRm-3">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="-35" y="500" as="sourcePoint" />
             <mxPoint x="45" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vDU1avr8M_OjxgSZHGRm-5" value="接口：G11 扣款通知" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0.2;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="jMVdGHxzMjccqwd2x8bG-1" source="jMVdGHxzMjccqwd2x8bG-2" target="vDU1avr8M_OjxgSZHGRm-3">
+        <mxCell id="vDU1avr8M_OjxgSZHGRm-5" value="接口：G11 退款通知" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0.2;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="jMVdGHxzMjccqwd2x8bG-1" source="jMVdGHxzMjccqwd2x8bG-2" target="vDU1avr8M_OjxgSZHGRm-3">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="100" y="530" as="sourcePoint" />
             <mxPoint x="180" y="530" as="targetPoint" />
