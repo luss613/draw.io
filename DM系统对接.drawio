@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-28T01:14:32.866Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="FvsERX7dJROW0dDzddgc" version="17.1.5" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-03-28T01:15:39.984Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="ov0ADHy3ZrDW98MV2lSZ" version="17.1.5" type="github" pages="14">
   <diagram id="VHPPdgc4-16UZA6mTWxn" name="会员注册(DM发起)">
     <mxGraphModel dx="1377" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1700,7 +1700,7 @@
             <mxPoint x="110" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6xSgEldDsRhRYC0G6YBI-0" value="&lt;h1&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;防呆控制&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;1. ZCSR已确认之后则锁住不允许顾客来到服务台在进行退卡.&lt;/p&gt;&lt;p&gt;2. 检查平安是否把全部退卡清单做校验并监控&lt;/p&gt;" style="text;html=1;strokeColor=#FF0000;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="jMVdGHxzMjccqwd2x8bG-1">
+        <mxCell id="6xSgEldDsRhRYC0G6YBI-0" value="&lt;h1&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;防呆控制&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;1. ZCSR已确认之后则锁住不允许顾客来到服务台在进行退卡.&lt;/p&gt;&lt;p&gt;2. 检查平安是否把全部退卡清单做校验并监控（DM清单查询）&lt;/p&gt;" style="text;html=1;strokeColor=#FF0000;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="jMVdGHxzMjccqwd2x8bG-1">
           <mxGeometry x="600" y="340" width="180" height="130" as="geometry" />
         </mxCell>
       </root>
