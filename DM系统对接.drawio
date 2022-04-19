@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T05:19:29.394Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="NUe-IuGN_jzEm1NFTy3j" version="17.4.5" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-04-19T05:24:00.036Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="zKeRAajodfHKiTk5poic" version="17.4.5" type="github" pages="14">
   <diagram id="VHPPdgc4-16UZA6mTWxn" name="会员注册(DM发起)">
     <mxGraphModel dx="896" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1607,6 +1607,9 @@
         </mxCell>
         <mxCell id="tDpH1SJcrG6mQWkLaim--0" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="jMVdGHxzMjccqwd2x8bG-6">
           <mxGeometry x="45" y="545" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_VWyiMFCyX21da4Eb3-k-0" value="&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;Block Member&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="jMVdGHxzMjccqwd2x8bG-6">
+          <mxGeometry x="-45" y="210" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jMVdGHxzMjccqwd2x8bG-12" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;接口: G09-01&lt;br&gt;&lt;/span&gt;联名卡退卡清单" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;" parent="jMVdGHxzMjccqwd2x8bG-1" source="jMVdGHxzMjccqwd2x8bG-2" target="jMVdGHxzMjccqwd2x8bG-4" edge="1">
           <mxGeometry relative="1" as="geometry">
