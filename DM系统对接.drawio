@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T05:26:44.329Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="p1uyqf-QgtQylH0tJBo6" version="17.4.5" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-04-19T05:42:22.362Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="MuBLWTzR82SXuuoq9QUm" version="17.4.5" type="github" pages="14">
   <diagram id="VHPPdgc4-16UZA6mTWxn" name="会员注册(DM发起)">
     <mxGraphModel dx="896" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1551,7 +1551,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="新平安退卡" id="kdAx6Ku8AXmRr1scSOvQ">
-    <mxGraphModel dx="687" dy="385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="916" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="jMVdGHxzMjccqwd2x8bG-0" />
         <mxCell id="jMVdGHxzMjccqwd2x8bG-1" parent="jMVdGHxzMjccqwd2x8bG-0" />
@@ -1688,7 +1688,7 @@
         <mxCell id="vDU1avr8M_OjxgSZHGRm-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;" parent="vDU1avr8M_OjxgSZHGRm-0" vertex="1">
           <mxGeometry x="45" y="500" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vDU1avr8M_OjxgSZHGRm-4" value="传送退卡POSLog(区分注册/续费)" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="vDU1avr8M_OjxgSZHGRm-0" source="vDU1avr8M_OjxgSZHGRm-3" edge="1">
+        <mxCell id="vDU1avr8M_OjxgSZHGRm-4" value="传送退卡POSLog(区分卡别/注册/续费)" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="vDU1avr8M_OjxgSZHGRm-0" source="vDU1avr8M_OjxgSZHGRm-3" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="-35" y="500" as="sourcePoint" />
             <mxPoint x="45" y="500" as="targetPoint" />
