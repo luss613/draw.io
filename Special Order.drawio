@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T14:14:59.682Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="t_glFgT2evvL64xBY0JM" version="17.4.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-20T05:54:51.572Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="hFkAqrKDjNCLvbO7eIG1" version="17.4.5" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="销售">
-    <mxGraphModel dx="1374" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="916" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -215,7 +215,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6SQMdmiS38PdySWfiUBp-7" value="是否为厂送" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="zBYj6lzGFg4gyyik7zvS-1" vertex="1">
+        <mxCell id="6SQMdmiS38PdySWfiUBp-7" value="是否为SO" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="zBYj6lzGFg4gyyik7zvS-1" vertex="1">
           <mxGeometry x="280" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CEFIE-ySKef9TWZxsy8w-0" value="结账/客服" style="swimlane;startSize=20;" vertex="1" parent="zBYj6lzGFg4gyyik7zvS-1">
