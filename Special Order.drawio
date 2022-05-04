@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-04T13:05:58.894Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="p-6EGaL9Q9bHmWxCwXnV" version="17.4.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-04T13:06:29.453Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="_VK550mvC447iIoI-lhy" version="17.4.5" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="销售">
     <mxGraphModel dx="1374" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -112,7 +112,7 @@
         <mxCell id="02NSBu3Gr5LEuk78i9ND-2" value="是否SO商品" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="560" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NtOGGg9B74_ysKXIhsV1-0" value="采购验收SO" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="NtOGGg9B74_ysKXIhsV1-0" value="采购关闭SO" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="800" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9P9QpWFJSZC7L6lgLxoG-0" value="结账/客服" style="swimlane;startSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
