@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-05T08:31:36.878Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="671SPnUKGR0NTLnkza8-" version="17.5.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-05-05T09:16:49.593Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="gpssrWJDv_M05I9eMoMp" version="17.5.1" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="销售">
     <mxGraphModel dx="1374" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -616,6 +616,11 @@
         <mxCell id="6ubXAM5j3HupfgwljiUM-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ybansGTqPRNBbyM4xPI3-34" source="6ubXAM5j3HupfgwljiUM-28" target="6ubXAM5j3HupfgwljiUM-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="xR5fzlRWiSSjDT4011XM-1" value="SO订单关闭" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6ubXAM5j3HupfgwljiUM-48">
+          <mxGeometry x="-0.225" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6ubXAM5j3HupfgwljiUM-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="ybansGTqPRNBbyM4xPI3-34" source="6ubXAM5j3HupfgwljiUM-28" target="6ubXAM5j3HupfgwljiUM-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -639,6 +644,11 @@
         </mxCell>
         <mxCell id="6ubXAM5j3HupfgwljiUM-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ybansGTqPRNBbyM4xPI3-34" source="6ubXAM5j3HupfgwljiUM-38" target="6ubXAM5j3HupfgwljiUM-45">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xR5fzlRWiSSjDT4011XM-0" value="SO订单关闭" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6ubXAM5j3HupfgwljiUM-46">
+          <mxGeometry x="0.025" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6ubXAM5j3HupfgwljiUM-38" value="非SO商品发货" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ybansGTqPRNBbyM4xPI3-34">
           <mxGeometry x="40" y="530" width="120" height="40" as="geometry" />
@@ -752,86 +762,50 @@
       <root>
         <mxCell id="zBYj6lzGFg4gyyik7zvS-0" />
         <mxCell id="zBYj6lzGFg4gyyik7zvS-1" parent="zBYj6lzGFg4gyyik7zvS-0" />
-        <mxCell id="JWQchuydamJImcBdJqUM-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="zBYj6lzGFg4gyyik7zvS-1" source="JWQchuydamJImcBdJqUM-1" target="JWQchuydamJImcBdJqUM-3" edge="1">
+        <mxCell id="uCqCpMWHZriF6Vo6sxl0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zBYj6lzGFg4gyyik7zvS-1" source="JWQchuydamJImcBdJqUM-1" target="eDjDrLXukx2mktvp3M3v-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JWQchuydamJImcBdJqUM-1" value="客人至门店退货" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="zBYj6lzGFg4gyyik7zvS-1" vertex="1">
+        <mxCell id="JWQchuydamJImcBdJqUM-1" value="Daily job&lt;br&gt;检查退货" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="zBYj6lzGFg4gyyik7zvS-1" vertex="1">
           <mxGeometry x="80" y="80" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="JWQchuydamJImcBdJqUM-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="zBYj6lzGFg4gyyik7zvS-1" source="JWQchuydamJImcBdJqUM-3" target="JWQchuydamJImcBdJqUM-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="240" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="140" y="220" />
-              <mxPoint x="340" y="220" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JWQchuydamJImcBdJqUM-3" value="执行系统退货作业" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="zBYj6lzGFg4gyyik7zvS-1" vertex="1">
-          <mxGeometry x="80" y="160" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="FomWz2JMiu0fm9CZBq7i-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="zBYj6lzGFg4gyyik7zvS-1" source="JWQchuydamJImcBdJqUM-6" target="FomWz2JMiu0fm9CZBq7i-0" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FomWz2JMiu0fm9CZBq7i-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="zBYj6lzGFg4gyyik7zvS-1" source="FomWz2JMiu0fm9CZBq7i-0" target="FomWz2JMiu0fm9CZBq7i-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JWQchuydamJImcBdJqUM-6" value="Daily job&lt;br&gt;检查退货" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="zBYj6lzGFg4gyyik7zvS-1" vertex="1">
-          <mxGeometry x="280" y="240" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="FomWz2JMiu0fm9CZBq7i-0" value="RFC抓取退货交易" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="zBYj6lzGFg4gyyik7zvS-1" vertex="1">
-          <mxGeometry x="480" y="240" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="FomWz2JMiu0fm9CZBq7i-2" value="交易已全退则不检查退货&lt;br&gt;交易时间超过1年不检查退货&lt;br&gt;依据退货单过滤唯一性&lt;br&gt;每天凌晨检查前一天退货&lt;br&gt;Special Order可以手动检查退货" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="zBYj6lzGFg4gyyik7zvS-1" vertex="1">
-          <mxGeometry x="647" y="90" width="180" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="FomWz2JMiu0fm9CZBq7i-3" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="zBYj6lzGFg4gyyik7zvS-1" source="JWQchuydamJImcBdJqUM-6" target="FomWz2JMiu0fm9CZBq7i-2" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="310" as="sourcePoint" />
-            <mxPoint x="610" y="260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6SQMdmiS38PdySWfiUBp-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="zBYj6lzGFg4gyyik7zvS-1" source="FomWz2JMiu0fm9CZBq7i-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FomWz2JMiu0fm9CZBq7i-4" value="自动载入退货明细" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="zBYj6lzGFg4gyyik7zvS-1" vertex="1">
-          <mxGeometry x="280" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FomWz2JMiu0fm9CZBq7i-8" value="备注：&lt;br&gt;客人退货至门店后，是否需要退货给厂商依赖于不同条件，Special Order提供Flag可标记PO是否已退货。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="zBYj6lzGFg4gyyik7zvS-1" vertex="1">
           <mxGeometry x="80" y="750" width="520" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="6SQMdmiS38PdySWfiUBp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="zBYj6lzGFg4gyyik7zvS-1" source="6SQMdmiS38PdySWfiUBp-0" target="JWQchuydamJImcBdJqUM-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6SQMdmiS38PdySWfiUBp-6" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="6SQMdmiS38PdySWfiUBp-5" vertex="1" connectable="0">
-          <mxGeometry x="-0.38" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CEFIE-ySKef9TWZxsy8w-0" value="Special Order" style="swimlane;startSize=20;" parent="zBYj6lzGFg4gyyik7zvS-1" vertex="1">
           <mxGeometry x="40" y="30" width="200" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="gCJnmatxpMlV1PBhWs1l-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CEFIE-ySKef9TWZxsy8w-0" source="JWQchuydamJImcBdJqUM-3" target="gCJnmatxpMlV1PBhWs1l-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JWQchuydamJImcBdJqUM-3" value="更新退货交易" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="CEFIE-ySKef9TWZxsy8w-0" vertex="1">
+          <mxGeometry x="40" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gCJnmatxpMlV1PBhWs1l-0" value="手动检查退货" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="CEFIE-ySKef9TWZxsy8w-0">
+          <mxGeometry x="40" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gCJnmatxpMlV1PBhWs1l-2" value="采购备注已RTV" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="CEFIE-ySKef9TWZxsy8w-0">
+          <mxGeometry x="40" y="290" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CEFIE-ySKef9TWZxsy8w-1" value="ECC" style="swimlane;startSize=20;" parent="zBYj6lzGFg4gyyik7zvS-1" vertex="1">
           <mxGeometry x="240" y="30" width="200" height="690" as="geometry" />
         </mxCell>
-        <mxCell id="6SQMdmiS38PdySWfiUBp-0" value="SO全退完" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="CEFIE-ySKef9TWZxsy8w-1" vertex="1">
-          <mxGeometry x="40" y="370" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6SQMdmiS38PdySWfiUBp-2" value="自动更新订单为已关闭" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="CEFIE-ySKef9TWZxsy8w-1" vertex="1">
-          <mxGeometry x="40" y="450" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6SQMdmiS38PdySWfiUBp-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="CEFIE-ySKef9TWZxsy8w-1" source="6SQMdmiS38PdySWfiUBp-0" target="6SQMdmiS38PdySWfiUBp-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6SQMdmiS38PdySWfiUBp-4" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="6SQMdmiS38PdySWfiUBp-3" vertex="1" connectable="0">
-          <mxGeometry y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="eDjDrLXukx2mktvp3M3v-0" value="RFC抓取退货交易" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="CEFIE-ySKef9TWZxsy8w-1">
+          <mxGeometry x="40" y="130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CEFIE-ySKef9TWZxsy8w-2" value="CAR" style="swimlane;startSize=20;" parent="zBYj6lzGFg4gyyik7zvS-1" vertex="1">
           <mxGeometry x="440" y="30" width="200" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="FomWz2JMiu0fm9CZBq7i-0" value="抓取退货交易" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="CEFIE-ySKef9TWZxsy8w-2" vertex="1">
+          <mxGeometry x="40" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uCqCpMWHZriF6Vo6sxl0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="zBYj6lzGFg4gyyik7zvS-1" source="eDjDrLXukx2mktvp3M3v-0" target="FomWz2JMiu0fm9CZBq7i-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uCqCpMWHZriF6Vo6sxl0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="zBYj6lzGFg4gyyik7zvS-1" source="eDjDrLXukx2mktvp3M3v-0" target="JWQchuydamJImcBdJqUM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gCJnmatxpMlV1PBhWs1l-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zBYj6lzGFg4gyyik7zvS-1" source="gCJnmatxpMlV1PBhWs1l-0" target="eDjDrLXukx2mktvp3M3v-0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
