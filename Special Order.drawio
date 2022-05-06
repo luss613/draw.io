@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T07:36:02.441Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="iNPWb18YXjqsfS57htAy" version="17.5.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-05-06T07:36:38.530Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="xoks-W5OnY-ELtNtE_yE" version="17.5.1" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="销售">
     <mxGraphModel dx="1374" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -574,7 +574,7 @@
             <mxRectangle x="440" y="25" width="60" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rhPS98U1rv18ir_Nq4pf-26" value="收到RTV Email" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rhPS98U1rv18ir_Nq4pf-25" vertex="1">
+        <mxCell id="rhPS98U1rv18ir_Nq4pf-26" value="收到RTV通知" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rhPS98U1rv18ir_Nq4pf-25" vertex="1">
           <mxGeometry x="31" y="610" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rhPS98U1rv18ir_Nq4pf-28" value="至门店取退货" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rhPS98U1rv18ir_Nq4pf-25" vertex="1">
