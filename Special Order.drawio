@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T02:25:22.438Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="M146qZZGiGAaSy_RnlkF" version="17.5.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-05-06T07:36:02.441Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="iNPWb18YXjqsfS57htAy" version="17.5.1" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="销售">
     <mxGraphModel dx="1374" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -176,7 +176,7 @@
         <mxCell id="4-VnemP0wxGpsWxUOlxu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="ruLeIWVAZt7aAykVaoKE-34" source="4-VnemP0wxGpsWxUOlxu-0" target="4-VnemP0wxGpsWxUOlxu-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4-VnemP0wxGpsWxUOlxu-8" value="大家具" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="4-VnemP0wxGpsWxUOlxu-7" vertex="1" connectable="0">
+        <mxCell id="4-VnemP0wxGpsWxUOlxu-8" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="4-VnemP0wxGpsWxUOlxu-7" vertex="1" connectable="0">
           <mxGeometry x="-0.8231" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -264,7 +264,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="SO销售业务流程-TOBE" id="FSeesrcmL4HSFuQe-kUv">
-    <mxGraphModel dx="916" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1374" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="K2-JATNt1rphijRjrKrN-0" />
         <mxCell id="K2-JATNt1rphijRjrKrN-1" parent="K2-JATNt1rphijRjrKrN-0" />
