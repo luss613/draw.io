@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T01:32:45.277Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="9qHD8bRsfMAYWi_oDGX_" version="17.5.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-05-06T01:40:17.266Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="wX-00PpwYNRQgX-1_LBq" version="17.5.1" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="销售">
     <mxGraphModel dx="1374" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -283,8 +283,10 @@
         <mxCell id="K2-JATNt1rphijRjrKrN-8" value="客服引导客人收银部控班台结账" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="K2-JATNt1rphijRjrKrN-3">
           <mxGeometry x="30" y="130" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EvLlONJZ4xhM7paPaJKT-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="K2-JATNt1rphijRjrKrN-3" source="JVqksL3-VX3j4f49Q7eM-1" target="EvLlONJZ4xhM7paPaJKT-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="EvLlONJZ4xhM7paPaJKT-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="K2-JATNt1rphijRjrKrN-3" source="JVqksL3-VX3j4f49Q7eM-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="290" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="JVqksL3-VX3j4f49Q7eM-1" value="开立SO订单" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="K2-JATNt1rphijRjrKrN-3">
           <mxGeometry x="30" y="210" width="120" height="40" as="geometry" />
@@ -351,16 +353,16 @@
         <mxCell id="EvLlONJZ4xhM7paPaJKT-0" value="是否SO商品" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="K2-JATNt1rphijRjrKrN-3">
           <mxGeometry x="30" y="370" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EvLlONJZ4xhM7paPaJKT-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="K2-JATNt1rphijRjrKrN-3" source="EvLlONJZ4xhM7paPaJKT-4" target="EvLlONJZ4xhM7paPaJKT-0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EvLlONJZ4xhM7paPaJKT-4" value="打印SO客户确认" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="K2-JATNt1rphijRjrKrN-3">
-          <mxGeometry x="30" y="290" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="K2-JATNt1rphijRjrKrN-31" value="财务" style="swimlane;startSize=20;" vertex="1" parent="K2-JATNt1rphijRjrKrN-3">
           <mxGeometry x="540" width="180" height="885" as="geometry">
             <mxRectangle x="440" y="25" width="60" height="20" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7h-2K_47K4Ts4jh5RNP5-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="K2-JATNt1rphijRjrKrN-3" source="7h-2K_47K4Ts4jh5RNP5-1" target="EvLlONJZ4xhM7paPaJKT-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7h-2K_47K4Ts4jh5RNP5-1" value="打印SO客户回执联" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="K2-JATNt1rphijRjrKrN-3">
+          <mxGeometry x="30" y="290" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K2-JATNt1rphijRjrKrN-21" value="采购" style="swimlane;startSize=20;" vertex="1" parent="K2-JATNt1rphijRjrKrN-1">
           <mxGeometry x="240" y="30" width="180" height="885" as="geometry" />
