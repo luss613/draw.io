@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T00:43:50.317Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="LiKd0qv-PipSHfoGgixL" version="17.5.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-05-06T01:32:45.277Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="9qHD8bRsfMAYWi_oDGX_" version="17.5.1" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="销售">
     <mxGraphModel dx="1374" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -365,8 +365,11 @@
         <mxCell id="K2-JATNt1rphijRjrKrN-21" value="采购" style="swimlane;startSize=20;" vertex="1" parent="K2-JATNt1rphijRjrKrN-1">
           <mxGeometry x="240" y="30" width="180" height="885" as="geometry" />
         </mxCell>
-        <mxCell id="L9x03AQ5YsUSl8WyK-Aa-0" value="执行PO Release" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="K2-JATNt1rphijRjrKrN-21">
+        <mxCell id="L9x03AQ5YsUSl8WyK-Aa-0" value="自动产出PO并Release" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="K2-JATNt1rphijRjrKrN-21">
           <mxGeometry x="30" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PwM_Jf-xe0qP9lP900a5-2" value="&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;SO是By Line来做控制和管理，Per SKU/PCS 产生PO&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="K2-JATNt1rphijRjrKrN-21">
+          <mxGeometry x="10" y="150" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="K2-JATNt1rphijRjrKrN-25" value="Vendor" style="swimlane;startSize=20;" vertex="1" parent="K2-JATNt1rphijRjrKrN-1">
           <mxGeometry x="420" y="30" width="180" height="885" as="geometry">
@@ -379,9 +382,9 @@
         <mxCell id="L9x03AQ5YsUSl8WyK-Aa-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="K2-JATNt1rphijRjrKrN-1" source="EvLlONJZ4xhM7paPaJKT-0" target="L9x03AQ5YsUSl8WyK-Aa-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="L9x03AQ5YsUSl8WyK-Aa-2" value="SO商品&lt;br&gt;自动产&lt;br&gt;生PO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L9x03AQ5YsUSl8WyK-Aa-1">
-          <mxGeometry x="0.2667" relative="1" as="geometry">
-            <mxPoint x="-8" as="offset" />
+        <mxCell id="PwM_Jf-xe0qP9lP900a5-0" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L9x03AQ5YsUSl8WyK-Aa-1">
+          <mxGeometry x="-0.3556" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="L9x03AQ5YsUSl8WyK-Aa-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="K2-JATNt1rphijRjrKrN-1" source="L9x03AQ5YsUSl8WyK-Aa-0" target="K2-JATNt1rphijRjrKrN-26">
@@ -389,6 +392,12 @@
         </mxCell>
         <mxCell id="L9x03AQ5YsUSl8WyK-Aa-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="K2-JATNt1rphijRjrKrN-1" source="K2-JATNt1rphijRjrKrN-26" target="K2-JATNt1rphijRjrKrN-28">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PwM_Jf-xe0qP9lP900a5-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="K2-JATNt1rphijRjrKrN-1" source="JVqksL3-VX3j4f49Q7eM-1" target="PwM_Jf-xe0qP9lP900a5-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="320" as="sourcePoint" />
+            <mxPoint x="340" y="270" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
