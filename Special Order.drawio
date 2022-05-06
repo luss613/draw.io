@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T02:22:05.582Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="vkID9C5Q5rBXufybez1M" version="17.5.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-05-06T02:25:22.438Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="M146qZZGiGAaSy_RnlkF" version="17.5.1" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="销售">
     <mxGraphModel dx="1374" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -484,7 +484,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CThG2x3rX3_opjfjLGPL-24" value="大家具" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CThG2x3rX3_opjfjLGPL-23" vertex="1" connectable="0">
+        <mxCell id="CThG2x3rX3_opjfjLGPL-24" value="非SO商品" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CThG2x3rX3_opjfjLGPL-23" vertex="1" connectable="0">
           <mxGeometry x="-0.4933" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
