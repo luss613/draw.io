@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-20T07:57:46.862Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="5FcysAZBQdS0NbwTGmPS" version="18.0.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-05-20T08:04:00.915Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="x4TxLGZw92pFH74GVyFc" version="18.0.6" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="销售">
     <mxGraphModel dx="1374" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -368,7 +368,7 @@
         <mxCell id="7h-2K_47K4Ts4jh5RNP5-22" value="卖场稽核" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="K2-JATNt1rphijRjrKrN-3" vertex="1">
           <mxGeometry x="30" y="850" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="K2-JATNt1rphijRjrKrN-21" value="采购" style="swimlane;startSize=20;" parent="K2-JATNt1rphijRjrKrN-1" vertex="1">
+        <mxCell id="K2-JATNt1rphijRjrKrN-21" value="" style="swimlane;startSize=20;" parent="K2-JATNt1rphijRjrKrN-1" vertex="1">
           <mxGeometry x="240" y="30" width="180" height="1070" as="geometry" />
         </mxCell>
         <mxCell id="L9x03AQ5YsUSl8WyK-Aa-0" value="自动产出PO并Release" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="K2-JATNt1rphijRjrKrN-21" vertex="1">
