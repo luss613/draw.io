@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-22T01:20:53.757Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="xPVrnxIXP006PTuVjSWo" version="18.1.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-06-22T01:24:03.291Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="XKxxtX2zkYYqh-c0hbpZ" version="18.1.3" type="github" pages="8">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="销售">
     <mxGraphModel dx="894" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -522,8 +522,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Dropship财务流程-TOBE" id="Kc1ZRz2ZbW5h57pnnXgw">
-    <mxGraphModel dx="1492" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="财务流程-TOBE" id="Kc1ZRz2ZbW5h57pnnXgw">
+    <mxGraphModel dx="894" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Vd0r6wwwrw_hHXNL5THf-0" />
         <mxCell id="Vd0r6wwwrw_hHXNL5THf-1" parent="Vd0r6wwwrw_hHXNL5THf-0" />
@@ -591,8 +591,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="SO有商品退货业务流程" id="OElYg-7VQ52eZVSKf-I-">
-    <mxGraphModel dx="1508" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="有商品退货业务流程" id="OElYg-7VQ52eZVSKf-I-">
+    <mxGraphModel dx="894" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="rhPS98U1rv18ir_Nq4pf-0" />
         <mxCell id="rhPS98U1rv18ir_Nq4pf-1" parent="rhPS98U1rv18ir_Nq4pf-0" />
@@ -619,7 +619,7 @@
         <mxCell id="rhPS98U1rv18ir_Nq4pf-11" value="发送Email通知采购退货" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="rhPS98U1rv18ir_Nq4pf-3" vertex="1">
           <mxGeometry x="28" y="610" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rhPS98U1rv18ir_Nq4pf-13" value="SO商品" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="rhPS98U1rv18ir_Nq4pf-3" source="rhPS98U1rv18ir_Nq4pf-16" target="rhPS98U1rv18ir_Nq4pf-11" edge="1">
+        <mxCell id="rhPS98U1rv18ir_Nq4pf-13" value="厂送商品" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="rhPS98U1rv18ir_Nq4pf-3" source="rhPS98U1rv18ir_Nq4pf-16" target="rhPS98U1rv18ir_Nq4pf-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CThG2x3rX3_opjfjLGPL-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="rhPS98U1rv18ir_Nq4pf-3" source="rhPS98U1rv18ir_Nq4pf-16" target="CThG2x3rX3_opjfjLGPL-22" edge="1">
@@ -631,12 +631,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CThG2x3rX3_opjfjLGPL-24" value="非SO商品" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CThG2x3rX3_opjfjLGPL-23" vertex="1" connectable="0">
+        <mxCell id="CThG2x3rX3_opjfjLGPL-24" value="非厂送商品" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CThG2x3rX3_opjfjLGPL-23" vertex="1" connectable="0">
           <mxGeometry x="-0.4933" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rhPS98U1rv18ir_Nq4pf-16" value="是否SO商品" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="rhPS98U1rv18ir_Nq4pf-3" vertex="1">
+        <mxCell id="rhPS98U1rv18ir_Nq4pf-16" value="是否厂送商品" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="rhPS98U1rv18ir_Nq4pf-3" vertex="1">
           <mxGeometry x="28" y="450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CThG2x3rX3_opjfjLGPL-18" value="有破损" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="rhPS98U1rv18ir_Nq4pf-3" source="CThG2x3rX3_opjfjLGPL-1" target="CThG2x3rX3_opjfjLGPL-3" edge="1">
@@ -750,6 +750,12 @@
         <mxCell id="rhPS98U1rv18ir_Nq4pf-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="rhPS98U1rv18ir_Nq4pf-25" source="rhPS98U1rv18ir_Nq4pf-26" target="rhPS98U1rv18ir_Nq4pf-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="e_ATq9NUWj28sMQRGBbz-0" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="rhPS98U1rv18ir_Nq4pf-25">
+          <mxGeometry x="40" y="535" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e_ATq9NUWj28sMQRGBbz-1" value="End" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rhPS98U1rv18ir_Nq4pf-25">
+          <mxGeometry x="25" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="rhPS98U1rv18ir_Nq4pf-31" value="回收业者" style="swimlane;startSize=20;" parent="rhPS98U1rv18ir_Nq4pf-1" vertex="1">
           <mxGeometry x="600" y="30" width="180" height="930" as="geometry">
             <mxRectangle x="440" y="25" width="60" height="20" as="alternateBounds" />
@@ -779,6 +785,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="690" y="560" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="e_ATq9NUWj28sMQRGBbz-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="rhPS98U1rv18ir_Nq4pf-1" source="CThG2x3rX3_opjfjLGPL-13" target="e_ATq9NUWj28sMQRGBbz-0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
